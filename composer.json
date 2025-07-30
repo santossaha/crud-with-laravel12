@@ -2,13 +2,14 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Niswey -PHP Developer - Assignment Round",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/tinker": "^2.10.1",
+        "yajra/laravel-datatables-oracle": "^12.4"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
